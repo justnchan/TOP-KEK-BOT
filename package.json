@@ -1,0 +1,16 @@
+{
+    "name": "TOP KEK BOT",
+    "version": "1.0.0",
+    "description": "A very simple Discord bot",
+    "main": "index.js",
+    "scripts": {
+      "run": "nodemon index.js"
+    },
+    "author": "Justin Chan",
+    "license": "ISC",
+    "dependencies": {
+      "discord.io": "^2.5.1",
+      "request": "^2.81.0"
+    }
+  }
+  
