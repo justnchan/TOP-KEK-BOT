@@ -3,5 +3,5 @@
 
 
 
-Discord Bot written in Node.js. 
+Cryptocurrency Data Discord Bot written in Node.js. 
 
